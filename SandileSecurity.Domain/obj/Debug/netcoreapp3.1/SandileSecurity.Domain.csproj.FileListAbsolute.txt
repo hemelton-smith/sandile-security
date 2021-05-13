@@ -1,0 +1,9 @@
+C:\Users\schonc219\source\repos\My projects\SandileSecurity\SandileSecurity.Domain\bin\Debug\netcoreapp3.1\SandileSecurity.Domain.deps.json
+C:\Users\schonc219\source\repos\My projects\SandileSecurity\SandileSecurity.Domain\bin\Debug\netcoreapp3.1\SandileSecurity.Domain.dll
+C:\Users\schonc219\source\repos\My projects\SandileSecurity\SandileSecurity.Domain\bin\Debug\netcoreapp3.1\SandileSecurity.Domain.pdb
+C:\Users\schonc219\source\repos\My projects\SandileSecurity\SandileSecurity.Domain\obj\Debug\netcoreapp3.1\SandileSecurity.Domain.csprojAssemblyReference.cache
+C:\Users\schonc219\source\repos\My projects\SandileSecurity\SandileSecurity.Domain\obj\Debug\netcoreapp3.1\SandileSecurity.Domain.AssemblyInfoInputs.cache
+C:\Users\schonc219\source\repos\My projects\SandileSecurity\SandileSecurity.Domain\obj\Debug\netcoreapp3.1\SandileSecurity.Domain.AssemblyInfo.cs
+C:\Users\schonc219\source\repos\My projects\SandileSecurity\SandileSecurity.Domain\obj\Debug\netcoreapp3.1\SandileSecurity.Domain.csproj.CoreCompileInputs.cache
+C:\Users\schonc219\source\repos\My projects\SandileSecurity\SandileSecurity.Domain\obj\Debug\netcoreapp3.1\SandileSecurity.Domain.dll
+C:\Users\schonc219\source\repos\My projects\SandileSecurity\SandileSecurity.Domain\obj\Debug\netcoreapp3.1\SandileSecurity.Domain.pdb

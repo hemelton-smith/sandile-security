@@ -1,0 +1,12 @@
+C:\Users\schonc219\source\repos\My projects\SandileSecurity\SandileSecurity.Web.Api\bin\Debug\netcoreapp3.1\SandileSecurity.Web.Api.deps.json
+C:\Users\schonc219\source\repos\My projects\SandileSecurity\SandileSecurity.Web.Api\bin\Debug\netcoreapp3.1\SandileSecurity.Web.Api.dll
+C:\Users\schonc219\source\repos\My projects\SandileSecurity\SandileSecurity.Web.Api\bin\Debug\netcoreapp3.1\SandileSecurity.Web.Api.pdb
+C:\Users\schonc219\source\repos\My projects\SandileSecurity\SandileSecurity.Web.Api\bin\Debug\netcoreapp3.1\SandileSecurity.Domain.dll
+C:\Users\schonc219\source\repos\My projects\SandileSecurity\SandileSecurity.Web.Api\bin\Debug\netcoreapp3.1\SandileSecurity.Domain.pdb
+C:\Users\schonc219\source\repos\My projects\SandileSecurity\SandileSecurity.Web.Api\obj\Debug\netcoreapp3.1\SandileSecurity.Web.Api.csprojAssemblyReference.cache
+C:\Users\schonc219\source\repos\My projects\SandileSecurity\SandileSecurity.Web.Api\obj\Debug\netcoreapp3.1\SandileSecurity.Web.Api.AssemblyInfoInputs.cache
+C:\Users\schonc219\source\repos\My projects\SandileSecurity\SandileSecurity.Web.Api\obj\Debug\netcoreapp3.1\SandileSecurity.Web.Api.AssemblyInfo.cs
+C:\Users\schonc219\source\repos\My projects\SandileSecurity\SandileSecurity.Web.Api\obj\Debug\netcoreapp3.1\SandileSecurity.Web.Api.csproj.CoreCompileInputs.cache
+C:\Users\schonc219\source\repos\My projects\SandileSecurity\SandileSecurity.Web.Api\obj\Debug\netcoreapp3.1\SandileSecurity.Web.Api.csproj.CopyComplete
+C:\Users\schonc219\source\repos\My projects\SandileSecurity\SandileSecurity.Web.Api\obj\Debug\netcoreapp3.1\SandileSecurity.Web.Api.dll
+C:\Users\schonc219\source\repos\My projects\SandileSecurity\SandileSecurity.Web.Api\obj\Debug\netcoreapp3.1\SandileSecurity.Web.Api.pdb
